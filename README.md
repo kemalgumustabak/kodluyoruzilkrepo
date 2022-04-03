@@ -26,3 +26,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 
 [MIT](https://www.mit.edu)
+
+
+---
+Patika.dev'e teşekkürler :D
+---
